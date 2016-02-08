@@ -27,5 +27,6 @@ console.log("Hello, World!")
 
 Kemudian jalankan dengan perintah,
 ```
+node hello.js
 ```
 
