@@ -6,3 +6,5 @@ tutorial nodejs untuk pembelajar
 * membantu para pembelajar agar lebih mudah mempelajari nodejs
 * membantu para pembelajar agar menghemat waktu karena fokus belajar bukan mencari panduan
 * dokumentasi yang pada akhirnya diharapkan menjadi buku lengkap yang bisa dijadikan rujukan
+
+##[Instalasi](instalasi.md)
