@@ -6,9 +6,9 @@ NodeJS bisa berjalan di sistem operasi GNU/Linux, Mac OS X, maupun Windows. Untu
 ##Instalasi di GNU/Linux Debian Jessie
 
 ```
-wget -b https://nodejs.org/dist/v4.2.6/node-v4.2.6-linux-x64.tar.xz
-tar -xJv -f node-v4.2.6-linux-x64.tar.xz
-ln -s node-v4.2.6-linux-x64 .node
+wget -b --no-check-certificate https://nodejs.org/dist/v6.10.2/node-v6.10.2-linux-x64.tar.xz
+tar -xJ -f node-v6.10.2-linux-x64.tar.xz
+ln -s node-v6.10.2-linux-x64 .node
 echo 'export PATH=$PATH:~/.node/bin' >> ~/.bashrc
 ```
 
